@@ -1,1 +1,2 @@
 false
+https://github.com/khanhminhpro/update/releases/download/v2.0.0/New.WinRAR.archive.rar

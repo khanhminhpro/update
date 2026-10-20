@@ -1,3 +1,3 @@
 true
-v2.0.0
+v2.0.1
 https://github.com/khanhminhpro/update/releases/download/v2.0.0/Update.exe
